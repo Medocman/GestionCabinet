@@ -1,0 +1,27 @@
+﻿using System;
+using System.Web;
+using System.Web.Services;
+using System.Web.Services.Protocols;
+using System.ComponentModel;
+
+namespace Gestion_Medicale
+{
+    public class Utilisateur : Personne
+    {
+        public int login
+        {
+            get => default(int);
+            set
+            {
+            }
+        }
+
+        public int motDePasse
+        {
+            get => default(int);
+            set
+            {
+            }
+        }
+    }
+}
