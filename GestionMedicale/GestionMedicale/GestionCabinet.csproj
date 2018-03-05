@@ -155,6 +155,7 @@
     <Compile Include="Models\Personne.cs" />
     <Compile Include="Models\RendezVous.cs" />
     <Compile Include="Models\Secretaire.cs" />
+    <Compile Include="Models\Statistiques.cs" />
     <Compile Include="Models\Traitement.cs" />
     <Compile Include="Models\Utilisateur.cs" />
     <Compile Include="Models\Visite.cs" />
